@@ -1,0 +1,1 @@
+<script src="assets/plugins/bootstrap-5.2.0-beta1-dist/js/bootstrap.min.js"></script>

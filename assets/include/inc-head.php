@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="assets/plugins/bootstrap-5.2.0-beta1-dist/css/bootstrap.min.css">
